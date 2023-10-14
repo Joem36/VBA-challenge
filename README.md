@@ -4,3 +4,6 @@
 <img width="1710" alt="Screenshot 2023-10-13 at 2 03 17 AM" src="https://github.com/Joem36/VBA-challenge/assets/133917939/a0138cb0-a362-4760-abed-e8c716e4a187">
 
 
+Utilized the below website for reference only as far as examples go- 
+https://stackoverflow.com/questions/12199318/vba-selecting-range-by-variables
+Imaad Fakier (tutor) assited me on the VBA challenge as far as submission goes. 
